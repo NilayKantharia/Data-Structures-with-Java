@@ -3,10 +3,6 @@ package LinkedList;
 /**
  * The core functionalities of a Doubly LinkedList.
  * <p>All the methods present in this class are created with respect to Doubly LinkedList structure.</p>
- * @author Nilay Kantharia
- * @version 1.0
- * @since 2024
- * @see <a href = "https://github.com/NilayKantharia" target = "_blank">Github</a>
  */
 
 public class DoublyLinkedList {
