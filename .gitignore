@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
-!**/.idea/
-!**/.gitignore
-!**/DataStructures.iml
+.idea
+.gitignore
+DataStructures.iml
 out/
 !**/src/main/out/
 !**/src/test/**/out/
