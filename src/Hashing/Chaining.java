@@ -1,4 +1,4 @@
-package Hashing.Chaining;
+package Hashing;
 
 /**
  * Includes all the methods to demonstrate Chaining in a hashMap.

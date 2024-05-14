@@ -1,4 +1,4 @@
-package Hashing.OpenAddressing;
+package Hashing;
 
 /**
  * Includes all methods to demonstrate Collisions occurs while using Linear Probing of Open Addressing.
