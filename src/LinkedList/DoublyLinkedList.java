@@ -359,10 +359,10 @@ public class DoublyLinkedList {
     }
 
 
-    public static void main(String[] args) {
-        DoublyLinkedList dll = new DoublyLinkedList();
-        dll.addFirst(2);
-        dll.addFirst(5);
-        dll.print();
-    }
+//    public static void main(String[] args) {
+//        DoublyLinkedList dll = new DoublyLinkedList();
+//        dll.addFirst(2);
+//        dll.addFirst(5);
+//        dll.print();
+//    }
 }
