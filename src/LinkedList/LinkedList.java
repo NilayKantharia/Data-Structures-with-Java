@@ -477,30 +477,30 @@ public class LinkedList {
         }
         return merged.next;
     }
-    public static void main(String[] args) {
-        LinkedList ll = new LinkedList();
-        ll.addLast(15);
-        ll.addLast(10);
-        ll.insert(100,5);
-        ll.insert(4,50);
-        ll.insert(50000, 500);
-        Node x = ll.clone();
-        ll.print();
-        ll.head = ll.sort(ll.head);
-        ll.print();
-        // ll.reverse();
-        // ll.print();
-        // ll.append(1);
-        // ll.append(2);
-        // ll.append(1);
-        // System.out.println(ll.isPalindrome(head));
-        // ll.head = new Node(1);
-        // ll.head.next = new Node(2);
-        // ll.head.next.next = new Node(3);
-        // // ll.head.next.next.next = ll.head;
-        // System.out.println(ll.containsCycle());
-
-    }
+//    public static void main(String[] args) {
+//        LinkedList ll = new LinkedList();
+//        ll.addLast(15);
+//        ll.addLast(10);
+//        ll.insert(100,5);
+//        ll.insert(4,50);
+//        ll.insert(50000, 500);
+//        Node x = ll.clone();
+//        ll.print();
+//        ll.head = ll.sort(ll.head);
+//        ll.print();
+//        ll.reverse();
+//        ll.print();
+//        ll.append(1);
+//        ll.append(2);
+//        ll.append(1);
+//        System.out.println(ll.isPalindrome(head));
+//        ll.head = new Node(1);
+//        ll.head.next = new Node(2);
+//        ll.head.next.next = new Node(3);
+//        ll.head.next.next.next = ll.head;
+//        System.out.println(ll.containsCycle());
+//
+//    }
 }
 
 
